@@ -1,6 +1,9 @@
 node_modules/
 dist/
 target/
+.venv/
+__pycache__/
+.pytest_cache/
 .env
 .env.*
 !.env.example
